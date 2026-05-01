@@ -34,4 +34,4 @@ L’analyse met en évidence que l’**engagement de l’étudiant** (heures d�
 Kaggle. (s. d.). Student exam performance dataset analysis.
 https://www.kaggle.com/datasets/grandmaster07/student-exam-performance-dataset-analysis
 
-* Voir le rapport complet pour les références détaillées.*
+**Voir le rapport complet pour les références détaillées.**
