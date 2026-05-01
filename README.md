@@ -28,6 +28,8 @@ Les résultats montrent que la **régression logistique** est le modèle le plus
 
 L’analyse met en évidence que l’**engagement de l’étudiant** (heures d’étude, assiduité) constitue le facteur le plus déterminant de la réussite scolaire, devant les variables socio-démographiques.
 
+**Voir le rapport complet pour plus de détails**
+
 ---
 ## Source des données
 
